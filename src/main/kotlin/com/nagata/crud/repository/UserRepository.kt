@@ -1,6 +1,6 @@
-package com.dev.valmirt.crud.repository
+package com.nagata.crud.repository
 
-import com.dev.valmirt.crud.model.User
+import com.nagata.crud.model.User
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.data.jpa.repository.Query
 import org.springframework.stereotype.Repository

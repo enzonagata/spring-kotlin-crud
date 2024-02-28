@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud.utils
+package com.nagata.crud.utils
 
 class Constants {
     companion object {

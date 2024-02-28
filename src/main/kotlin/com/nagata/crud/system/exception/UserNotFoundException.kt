@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud.system.exception
+package com.nagata.crud.system.exception
 
 import java.lang.RuntimeException
 

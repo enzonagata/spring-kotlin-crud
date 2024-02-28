@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud.model
+package com.nagata.crud.model
 
 import javax.persistence.*
 import javax.validation.constraints.Email

@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud.model
+package com.nagata.crud.model
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 import org.springframework.data.annotation.CreatedDate

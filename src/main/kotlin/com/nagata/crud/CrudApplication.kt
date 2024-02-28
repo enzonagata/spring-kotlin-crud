@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud
+package com.nagata.crud
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

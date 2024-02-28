@@ -1,8 +1,8 @@
-package com.dev.valmirt.crud.controller
+package com.nagata.crud.controller
 
-import com.dev.valmirt.crud.model.User
-import com.dev.valmirt.crud.service.UserService
-import com.dev.valmirt.crud.utils.Constants
+import com.nagata.crud.model.User
+import com.nagata.crud.service.UserService
+import com.nagata.crud.utils.Constants
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
 import javax.validation.Valid

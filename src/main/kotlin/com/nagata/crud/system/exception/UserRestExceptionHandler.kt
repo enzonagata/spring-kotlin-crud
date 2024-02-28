@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud.system.exception
+package com.nagata.crud.system.exception
 
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity

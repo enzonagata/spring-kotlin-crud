@@ -1,8 +1,8 @@
-package com.dev.valmirt.crud.service
+package com.nagata.crud.service
 
-import com.dev.valmirt.crud.model.User
-import com.dev.valmirt.crud.repository.UserRepository
-import com.dev.valmirt.crud.system.exception.UserNotFoundException
+import com.nagata.crud.model.User
+import com.nagata.crud.repository.UserRepository
+import com.nagata.crud.system.exception.UserNotFoundException
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.data.domain.PageRequest
 import org.springframework.stereotype.Service

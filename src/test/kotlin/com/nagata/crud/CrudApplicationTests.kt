@@ -1,4 +1,4 @@
-package com.dev.valmirt.crud
+package com.nagata.crud
 
 import org.junit.Test
 import org.junit.runner.RunWith

@@ -1,6 +1,6 @@
-package com.dev.valmirt.crud.service
+package com.nagata.crud.service
 
-import com.dev.valmirt.crud.model.User
+import com.nagata.crud.model.User
 
 interface UserService {
 
